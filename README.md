@@ -102,4 +102,4 @@ echo $app->getPassword();
 5. ```sendMessage ("Subject", "Body", toAccID);```</br>
 
 <hr>
-For Example code goto [here](https://github.com/FamryAmri/GD-API/tree/master/test)
+For Example code goto <a href="https://github.com/FamryAmri/GD-API/tree/master/test">Here </a>
