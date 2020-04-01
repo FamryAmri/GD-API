@@ -88,3 +88,5 @@ echo $app->getPassword();
 
 <hr>
 For Example code goto <a href="https://github.com/FamryAmri/GD-API/tree/master/test">Here </a>
+<br>
+Composer isnt available now...
