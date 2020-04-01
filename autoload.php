@@ -1,5 +1,5 @@
 <?php
-namespace GD-API;
+namespace GD-API/GD-API;
 
 chdir (dirname (__FILE__));
 include "lib/XORCipher.php";
