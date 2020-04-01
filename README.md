@@ -17,21 +17,6 @@ $app = new GDLevel ("http://boomlings.com/database", 60078339);
 echo $app->getPassword();
 ?>
 ```
-### Composer
-
-Installation in Composer here the code</br>
-``` composer require gd-api/gd-api ```
-
-#### Code 
-
-```php
-<?php
-include "/vendor/autoload.php";
-$app = new GDLevel ("http://boomlings.com/database", 60078339);
-echo $app->getPassword();
-?>
-```
-
 ## codes functions
 ### GDConfig
 1. ```new GDConfig($host, $username = null, $password = null);```</br>
