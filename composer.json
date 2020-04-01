@@ -1,0 +1,12 @@
+{
+	"name": "gd-api/gd-api",
+	"description": "This is a library, i think",
+	"keywords": ["api", "php", "GD-API", "geometrydash", "php-library", "geometrydash-api"],
+	"license":"MIT",
+	"version": "1.0.0",
+	"autoload": {
+			"psr-4": {
+				"": "autoload.php"
+				}
+		}
+}
