@@ -9,7 +9,6 @@
 7. GDError (For Exception)
 
 ## Example code<hr>
-### Normal
 ```php
 <?php
 include "/gd-api/autoload.php";
@@ -17,7 +16,7 @@ $app = new GDLevel ("http://boomlings.com/database", 60078339);
 echo $app->getPassword();
 ?>
 ```
-## codes functions
+## codes functions<hr>
 ### GDConfig
 1. ```new GDConfig($host, $username = null, $password = null);```</br>
 2. ```getUserID ();```</br>
